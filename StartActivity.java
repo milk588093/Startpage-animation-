@@ -1,15 +1,4 @@
-/*------------------------------------------------------------------------------------------------------------*
- *                                                                                                            *
- * Copyright      2021 Sightour Inc.                                                                          *
- *                                                                                                            *
- *------------------------------------------------------------------------------------------------------------*
- * PROJECT     :  ZenShot                                                                                     *
- * BINARY NAME :                                                                                              *
- * FILE NAME   :  StartActivity.java                                                                           *
- * CREATED BY  :  Leo Zeng <leozeng@sightour.com>                                                           *
- * CREATED DATE:  01/27/21 (MM/DD/YY)                                                                         *
- * DESCRIPTION :  StartPage.                                                                              *
- *------------------------------------------------------------------------------------------------------------*/
+
 package com.asus.zenshot;
 
 import android.app.Activity;
